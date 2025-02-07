@@ -2,7 +2,7 @@
 
 ## Our Team
 
-TODO: Replace with your team members
+- Kei Sanabria Santana
 
 ## How to run the streamlit app
 
