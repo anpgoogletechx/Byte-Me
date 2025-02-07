@@ -3,6 +3,7 @@
 ## Our Team
 
 - Kei Sanabria Santana
+- Darianne Sinclair
 
 ## How to run the streamlit app
 
