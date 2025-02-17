@@ -5,6 +5,7 @@ KeDaArD
 - Kei Sanabria Santana
 - Darianne Sinclair
 - Ariana Phillips
+- Daniela Gutierrez
 
 ## How to run the streamlit app
 
